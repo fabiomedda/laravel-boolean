@@ -15,7 +15,7 @@
         html,
         body {
             background-color: rgb(100, 100, 100);
-            color: #636b6f;
+            color: white;
             font-family: 'Nunito', sans-serif;
             font-weight: 200;
             height: 100vh;
